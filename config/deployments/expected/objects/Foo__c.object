@@ -20,4 +20,12 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <label>Foo</label>
+    <nameField>
+        <label>Foo Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Foos</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
